@@ -4,7 +4,7 @@
     {
       "type": "paragraph",
       "id": "1670012235166500",
-      "text": "360 lines of JS code, microtalk.js, for a lambdatalk reduced to a small dictionary of 70 primitive functions (HTML, maths, booleans, arrays), to 3 main special forms [if,lambda,def] and 3 sugar forms [let,q,']. [http://epsilonwiki.free.fr/alphawiki_2/data/microtalk/index.html site]"
+      "text": "360 lines of JS code, microtalk.js, for a lambdatalk reduced to a small dictionary of 70 primitive functions (HTML, maths, booleans, arrays), to 3 main special forms [if,lambda,def] and 3 sugar forms [let,q,']. [http://epsilonwiki.free.fr/alphawiki_2/data/microtalk/index.html site] [https://github.com/WardCunningham/wiki-plugin-microtalk github]"
     },
     {
       "type": "microtalk",
@@ -85,6 +85,16 @@
         "text": "See [[More About Microtalk]]"
       },
       "date": 1439050711733
+    },
+    {
+      "type": "edit",
+      "id": "1670012235166500",
+      "item": {
+        "type": "paragraph",
+        "id": "1670012235166500",
+        "text": "360 lines of JS code, microtalk.js, for a lambdatalk reduced to a small dictionary of 70 primitive functions (HTML, maths, booleans, arrays), to 3 main special forms [if,lambda,def] and 3 sugar forms [let,q,']. [http://epsilonwiki.free.fr/alphawiki_2/data/microtalk/index.html site] [https://github.com/WardCunningham/wiki-plugin-microtalk github]"
+      },
+      "date": 1439051507968
     }
   ]
 }

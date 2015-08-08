@@ -370,7 +370,7 @@
   function emit ($item, item) {
     $item.append(
       '<table style="width:100%; background:#eee; padding:.8em; margin-bottom:5px;">' +
-      '<tr><td>' + escape(item.text) +
+      '<tr><td style="white-space: pre-wrap;">' + escape(item.text) +
       '<tr><td style="background-color:#ddd;padding:15px;">' + output(item)
     )
   }

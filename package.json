@@ -1,0 +1,35 @@
+{
+  "name": "wiki-plugin-microtalk",
+  "version": "0.1.0",
+  "description": "Federated Wiki - Microtalk Plugin",
+  "keywords": [
+    "microtalk",
+    "lambdatalk",
+    "lisp",
+    "wiki",
+    "federated wiki",
+    "plugin"
+  ],
+  "author": {
+    "name": "alain marty",
+    "email": "marty.alain@free.fr",
+    "url": "http://epsilonwiki.free.fr/alphawiki_2/data/microtalk/index.html"
+  },
+  "contributors": [
+    {
+      "name": "Ward Cunningham",
+      "email": "ward@c2.com"    
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wardcunningham/wiki-plugin-microtalk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wardcunningham/wiki-plugin-microtalk/issues"
+  },
+  "engines": {
+    "node": "0.10"
+  }
+}

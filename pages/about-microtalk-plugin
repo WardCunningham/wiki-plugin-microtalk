@@ -1,0 +1,65 @@
+{
+  "title": "About Microtalk Plugin",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "1670012235166500",
+      "text": "360 lines of JS code, microtalk.js, for a lambdatalk reduced to a small dictionary of 70 primitive functions (HTML, maths, booleans, arrays), to 3 main special forms [if,lambda,def] and 3 sugar forms [let,q,']. [http://epsilonwiki.free.fr/alphawiki_2/data/microtalk/index.html site]"
+    },
+    {
+      "type": "microtalk",
+      "id": "9049e112e02a6f1d",
+      "text": "{h1 µ-talk}"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "About Microtalk Plugin",
+        "story": []
+      },
+      "date": 1439044154384
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1670012235166500"
+      },
+      "id": "1670012235166500",
+      "type": "add",
+      "date": 1439044156506
+    },
+    {
+      "type": "edit",
+      "id": "1670012235166500",
+      "item": {
+        "type": "paragraph",
+        "id": "1670012235166500",
+        "text": "360 lines of JS code, microtalk.js, for a lambdatalk reduced to a small dictionary of 70 primitive functions (HTML, maths, booleans, arrays), to 3 main special forms [if,lambda,def] and 3 sugar forms [let,q,']."
+      },
+      "date": 1439044294011
+    },
+    {
+      "type": "edit",
+      "id": "1670012235166500",
+      "item": {
+        "type": "paragraph",
+        "id": "1670012235166500",
+        "text": "360 lines of JS code, microtalk.js, for a lambdatalk reduced to a small dictionary of 70 primitive functions (HTML, maths, booleans, arrays), to 3 main special forms [if,lambda,def] and 3 sugar forms [let,q,']. [http://epsilonwiki.free.fr/alphawiki_2/data/microtalk/index.html site]"
+      },
+      "date": 1439044333246
+    },
+    {
+      "item": {
+        "type": "microtalk",
+        "id": "9049e112e02a6f1d",
+        "text": "{h1 µ-talk}"
+      },
+      "id": "9049e112e02a6f1d",
+      "type": "add",
+      "after": "1670012235166500",
+      "date": 1439044340779
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "title": "More About Microtalk",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "c5d939efba565627",
+      "text": "We try a few examples of microtalk, a subset of lambdatalk, a dialect of lisp."
+    },
+    {
+      "type": "paragraph",
+      "id": "23c5880d273b33cc",
+      "text": "See [[About Microtalk Plugin]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b90e6639957569bc",
+      "text": "We write expressions in a prefix notation using brackets."
+    },
+    {
+      "type": "microtalk",
+      "id": "9049e112e02a6f1d",
+      "text": "{+ 2 3}\n"
+    },
+    {
+      "type": "paragraph",
+      "id": "c53a027fcd5c67db",
+      "text": "We have at our disposal all of the functions in lib."
+    },
+    {
+      "type": "microtalk",
+      "id": "c7df36712f98b718",
+      "text": "{lib}",
+      "alias": "9049e112e02a6f1d"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "More About Microtalk",
+        "story": []
+      },
+      "date": 1439049530264
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "23c5880d273b33cc",
+        "text": "[[About Microtalk Plugin]]"
+      },
+      "id": "23c5880d273b33cc",
+      "date": 1439049535952
+    },
+    {
+      "type": "add",
+      "id": "8846df3b7c796227",
+      "item": {
+        "type": "paragraph",
+        "id": "8846df3b7c796227",
+        "text": "[[scratch]]"
+      },
+      "after": "23c5880d273b33cc",
+      "date": 1439049544775
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "microtalk",
+        "id": "9049e112e02a6f1d",
+        "text": "{+ 2 3}"
+      },
+      "after": "8846df3b7c796227",
+      "id": "9049e112e02a6f1d",
+      "date": 1439049571006
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "microtalk",
+        "id": "c7df36712f98b718",
+        "text": "{+ 2 3}",
+        "alias": "9049e112e02a6f1d"
+      },
+      "after": "8846df3b7c796227",
+      "id": "c7df36712f98b718",
+      "date": 1439049582370
+    },
+    {
+      "type": "edit",
+      "id": "9049e112e02a6f1d",
+      "item": {
+        "type": "microtalk",
+        "id": "9049e112e02a6f1d",
+        "text": "{lib}"
+      },
+      "date": 1439049707940
+    },
+    {
+      "type": "edit",
+      "id": "9049e112e02a6f1d",
+      "item": {
+        "type": "microtalk",
+        "id": "9049e112e02a6f1d",
+        "text": "{+ 2 3}\n"
+      },
+      "date": 1439049818289
+    },
+    {
+      "type": "edit",
+      "id": "c7df36712f98b718",
+      "item": {
+        "type": "microtalk",
+        "id": "c7df36712f98b718",
+        "text": "{lib}",
+        "alias": "9049e112e02a6f1d"
+      },
+      "date": 1439050082226
+    },
+    {
+      "type": "remove",
+      "id": "8846df3b7c796227",
+      "date": 1439050140078
+    },
+    {
+      "type": "edit",
+      "id": "23c5880d273b33cc",
+      "item": {
+        "type": "paragraph",
+        "id": "23c5880d273b33cc",
+        "text": "See [[About Microtalk Plugin]]"
+      },
+      "date": 1439050164245
+    },
+    {
+      "type": "add",
+      "id": "c5d939efba565627",
+      "item": {
+        "type": "paragraph",
+        "id": "c5d939efba565627",
+        "text": "We try a few examples of microtalk, a subset of lambdatalk, a dialect of lisp."
+      },
+      "after": "23c5880d273b33cc",
+      "date": 1439050220965
+    },
+    {
+      "type": "move",
+      "order": [
+        "c5d939efba565627",
+        "23c5880d273b33cc",
+        "c7df36712f98b718",
+        "9049e112e02a6f1d"
+      ],
+      "id": "23c5880d273b33cc",
+      "date": 1439050227746
+    },
+    {
+      "type": "add",
+      "id": "b90e6639957569bc",
+      "item": {
+        "type": "paragraph",
+        "id": "b90e6639957569bc",
+        "text": "We write expressions in a prefix notation using brackets."
+      },
+      "after": "23c5880d273b33cc",
+      "date": 1439050319368
+    },
+    {
+      "type": "move",
+      "order": [
+        "c5d939efba565627",
+        "23c5880d273b33cc",
+        "b90e6639957569bc",
+        "9049e112e02a6f1d",
+        "c7df36712f98b718"
+      ],
+      "id": "9049e112e02a6f1d",
+      "date": 1439050342664
+    },
+    {
+      "type": "edit",
+      "id": "b90e6639957569bc",
+      "item": {
+        "type": "paragraph",
+        "id": "b90e6639957569bc",
+        "text": "We write expressions in a prefix notation using brackets."
+      },
+      "date": 1439050357332
+    },
+    {
+      "type": "add",
+      "id": "c53a027fcd5c67db",
+      "item": {
+        "type": "paragraph",
+        "id": "c53a027fcd5c67db",
+        "text": "We have at our disposal all of the functions in lib."
+      },
+      "after": "b90e6639957569bc",
+      "date": 1439050376690
+    },
+    {
+      "type": "move",
+      "order": [
+        "c5d939efba565627",
+        "23c5880d273b33cc",
+        "b90e6639957569bc",
+        "9049e112e02a6f1d",
+        "c53a027fcd5c67db",
+        "c7df36712f98b718"
+      ],
+      "id": "c53a027fcd5c67db",
+      "date": 1439050383171
+    }
+  ]
+}

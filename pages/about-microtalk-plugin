@@ -10,6 +10,11 @@
       "type": "microtalk",
       "id": "9049e112e02a6f1d",
       "text": "{h1 µ-talk}"
+    },
+    {
+      "type": "paragraph",
+      "id": "f97f98ae23ecd103",
+      "text": "See [[More About Microtalk]]"
     }
   ],
   "journal": [
@@ -60,6 +65,26 @@
       "type": "add",
       "after": "1670012235166500",
       "date": 1439044340779
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f97f98ae23ecd103"
+      },
+      "id": "f97f98ae23ecd103",
+      "type": "add",
+      "after": "9049e112e02a6f1d",
+      "date": 1439050694371
+    },
+    {
+      "type": "edit",
+      "id": "f97f98ae23ecd103",
+      "item": {
+        "type": "paragraph",
+        "id": "f97f98ae23ecd103",
+        "text": "See [[More About Microtalk]]"
+      },
+      "date": 1439050711733
     }
   ]
 }
